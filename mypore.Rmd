@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 I am going to make a plot
 
 ```{r}
-plot(iris$Sepal.Length, iris$Sepal.Width, main = plotting iris)
+plot(iris$Sepal.Length, iris$Sepal.Width, main = plotting lo mejor de lo mejor)
 ```
 
 
